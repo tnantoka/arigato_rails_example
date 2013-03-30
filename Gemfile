@@ -42,3 +42,4 @@ gem 'jbuilder', '~> 1.0.1'
 # gem 'debugger'
 
 gem 'arigato_rails'
+gem 'thin'
